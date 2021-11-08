@@ -8,3 +8,4 @@
 - [Mari](https://github.com/Mari-Artho)
 - [Milica](https://github.com/MilicaBl)
 - [Jonas](https://github.com/Adrijun)
+- [Andre](https://github.com/AndreNarvell)
