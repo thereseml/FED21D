@@ -6,3 +6,4 @@
 - [Alexander Rusiecki](https://github.com/alexander-rusiecki)
 - [Csilla](https://github.com/cssilla)
 - [Mari](https://github.com/Mari-Artho)
+- [Betty](https://github.com/bettykroon)
