@@ -9,3 +9,4 @@
 - [Milica](https://github.com/MilicaBl)
 - [Jonas](https://github.com/Adrijun)
 - [Andre](https://github.com/AndreNarvell)
+- [Magnus](https://github.com/wahlstrommm)
