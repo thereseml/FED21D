@@ -6,4 +6,6 @@
 - [Alexander Rusiecki](https://github.com/alexander-rusiecki)
 - [Csilla](https://github.com/cssilla)
 - [Mari](https://github.com/Mari-Artho)
+- [Milica](https://github.com/MilicaBl)
+- [Jonas](https://github.com/Adrijun)
 - [Andre](https://github.com/AndreNarvell)
