@@ -12,4 +12,4 @@
 - [Magnus](https://github.com/wahlstrommm)
 - [Betty](https://github.com/bettykroon)
 - [srujana](https://github.com/srujana-edu)
-- [Therese] (https://github.com/thereseml)
+- [Therese] (https://github.com/thereseml) 
