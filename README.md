@@ -10,3 +10,4 @@
 - [Jonas](https://github.com/Adrijun)
 - [Andre](https://github.com/AndreNarvell)
 - [Magnus](https://github.com/wahlstrommm)
+- [Betty](https://github.com/bettykroon)
