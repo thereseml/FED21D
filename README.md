@@ -6,5 +6,4 @@
 - [Alexander Rusiecki](https://github.com/alexander-rusiecki)
 - [Csilla](https://github.com/cssilla)
 - [Mari](https://github.com/Mari-Artho)
-
 - [srujana](https://github.com/srujana-edu)
