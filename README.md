@@ -16,3 +16,4 @@
 - [MalcolmDahling](https://github.com/MalcolmDahling)
 - [Jessica](https://github.com/jsilf)
 - [Joel](https://github.com/Joelhagg)
+- [Cornelia](https://github.com/CorneliaLH)
